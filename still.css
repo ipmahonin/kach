@@ -1,0 +1,162 @@
+.fon {
+  width: 1060px;
+  height: auto;
+  font-family: "Montserrat";
+  margin-left: 270px;
+  margin-right: 270px;
+  color: rgb(255, 255, 255);
+}
+ul {
+  display: flex;
+  list-style: none;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+p {
+  margin-top: 20px;
+  font-size: 26px;
+}
+
+.menu {
+  margin-top: 55px;
+  height: 70px;
+
+  display: flex;
+}
+a {
+  text-decoration: none;
+  font-size: 24px;
+  color: aliceblue;
+}
+.obl {
+  margin-top: 187px;
+}
+.kn {
+  display: block;
+  text-align: center;
+  padding-top: 24px;
+  width: 278px;
+  height: 60px;
+  font-size: 30px;
+  border: 5px solid #fff;
+  transition: 1s;
+}
+.kn:hover {
+  background-color: #fff;
+  color: black;
+  border: 5px solid rgb(255, 255, 255);
+}
+.billi {
+  width: 741px;
+  height: 711px;
+  position: absolute;
+  margin: 21px 69px 0px 520px;
+}
+.inf {
+  width: 1060px;
+  height: 1560px;
+  background-color: #fff;
+  border-radius: 70px;
+  color: black;
+}
+.inf1 {
+  position: absolute;
+  width: 880px;
+  height: 400px;
+  margin-top: 70px;
+  margin-left: 90px;
+  border-radius: 100px;
+  background-color: #fdffb9;
+  box-shadow: 0.4em 0.4em 5px #cfd526;
+  transition: 1s;
+}
+.inf1 h2 {
+  margin-top: 51px;
+  margin-left: 90px;
+  font-size: 27px;
+}
+.inf1 p {
+  margin: 20px 315px 75px 90px;
+  font-size: 27px;
+}
+.inf1 img {
+  position: absolute;
+  width: 357.25px;
+  height: 303px;
+  margin: -35px 0px 0px 509px;
+}
+.inf2 {
+  position: absolute;
+  width: 880px;
+  height: 400px;
+  background-color: #d7ffb7;
+  border-radius: 100px;
+  margin-top: 570px;
+  margin-left: 90px;
+  box-shadow: 0.4em 0.4em 5px #80cd41;
+  transition: 1s;
+}
+.inf2 h2 {
+  margin-top: 51px;
+  margin-left: 90px;
+  font-size: 27px;
+}
+.inf2 p {
+  margin: 20px 323px 77px 71px;
+  font-size: 27px;
+}
+.inf2 img {
+  position: absolute;
+  width: 503px;
+  height: 384px;
+  margin: 29px 409px;
+  margin-top: -65px;
+}
+
+.inf3 {
+  position: absolute;
+  width: 880px;
+  height: 400px;
+  background-color: #c4c3fe;
+  border-radius: 100px;
+  margin-top: 1090px;
+  margin-left: 90px;
+  box-shadow: 0.4em 0.4em 5px #5b59ba;
+  transition: 1s;
+}
+.inf3 h2 {
+  margin-top: 51px;
+  margin-left: 90px;
+  font-size: 27px;
+}
+.inf3 p {
+  margin: 20px 323px 77px 71px;
+  font-size: 27px;
+}
+.inf3 img {
+  position: absolute;
+  width: 311px;
+  height: 270px;
+  margin: 30px 0px 0px 549px;
+  margin-top: -20px;
+}
+.inf1:hover {
+  background-color: #f3a8e1;
+  box-shadow: 0.4em 0.4em 5px #ea21bb;
+}
+.inf2:hover {
+  background-color: #8dd5e4;
+  box-shadow: 0.4em 0.4em 5px #1ab6d5;
+}
+.inf3:hover {
+  background-color: #f3a8a8;
+  box-shadow: 0.4em 0.4em 5px #dc2d2d;
+}
+.pod {
+  display: flex;
+}
+.pod p {
+  font-size: 20px;
+  margin-top: -10px;
+  margin-right: 55px;
+}
